@@ -1,0 +1,24 @@
+{
+  "name": "NLWStarter_Ecoleta",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PolianaRufatto/NLWStarter_Ecoleta.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PolianaRufatto/NLWStarter_Ecoleta/issues"
+  },
+  "homepage": "https://github.com/PolianaRufatto/NLWStarter_Ecoleta#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
